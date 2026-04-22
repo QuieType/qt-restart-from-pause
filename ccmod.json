@@ -1,6 +1,6 @@
 {
     "id": "qt-restart-from-pause",
-    "version": "0.1.0",
+    "version": "1.0.3",
     "title": "Restart from Pause",
     "description": "Adds a 'Restart Game' button to the pause menu.",
     "repository": "https://github.com/QuieType/qt-restart-from-pause",
